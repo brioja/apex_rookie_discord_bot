@@ -1,0 +1,11 @@
+[
+    {"value": 1.0, "text": "Don't first ban any heroes (let time expire)"},
+    {"value": 1.0, "text": "Use up all backup time on first turn."},
+    {"value": 1.0, "text": "Use waifu/husbando in box"},
+    {"value": 2.0, "text": "Replace an SSR Hero with an SR hero in your box"},
+    {"value": 2.0, "text": "Play without God Covenent"},
+    {"value": 3.0, "text": "Don't ban any heroes"},
+    {"value": 3.0, "text": "Use auto for first round"},
+    {"value": 3.0, "text": "Sacrifice a hero into the fog on round 2"}
+
+]
